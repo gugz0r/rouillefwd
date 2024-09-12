@@ -1,0 +1,9 @@
+[package]
+name = "rouillefwd"
+version = "0.1.0"
+edition = "2021"
+
+authors = ["guillaume@rootshell.fr"]
+description = "A simple TCP port forwarder written in Rust."
+
+[dependencies]
